@@ -29,9 +29,9 @@
 
 ### Mᴜsᴛ AᴅᴅVᴀʀɪᴀʙʟᴇs
 
-- `BOT_TOKEN` 👈 ᴄʀᴇᴀᴛᴇ ᴀ ʙᴏᴛ ғʀᴏᴍ ʙᴏᴛғᴀᴛʜᴇʀ
-- `API_ID` 👈 ɢᴇᴛ ᴀᴘɪ ɪᴅ ғʀᴏᴍ ( Telegram.Org )
-- `API_HASH` 👈 ɢᴇᴛ ᴀᴘɪ ʜᴀsʜ ғʀᴏᴍ ( Telegram.Org )
+- `BOT_TOKEN` 👈 ᴄʀᴇᴀᴛᴇ ᴀ ʙᴏᴛ ғʀᴏᴍ ʙᴏᴛғᴀᴛʜᴇʀ  @pager2132131232131bot
+- `API_ID` 👈 ɢᴇᴛ ᴀᴘɪ ɪᴅ ғʀᴏᴍ ( Telegram.Org ) 5470240596
+- `API_HASH` 👈 ɢᴇᴛ ᴀᴘɪ ʜᴀsʜ ғʀᴏᴍ ( Telegram.Org ) 6162640492:AAH4kkDofg-KFtrsTWwdP8Dkaxwj32Fcn6Q
 - `CHANNELS` 👈 ᴄʀᴇᴀᴛᴇ ᴀ ᴅʙ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴀᴅᴍɪɴ ᴛʜᴇ ᴅᴇᴘᴏʟʏ ʙᴏᴛ
 - `ADMINS` 👈 ɢᴇᴛ ᴜʀ ɪᴅ ғʀᴏᴍ ( @MissRose_bot ) ʙᴏᴛ
 - `DATABASE_URI` 👈 ɢᴇᴛ ᴍᴏɴɢᴏᴅʙ ᴜʀʟ ғʀᴏᴍ ( mongodb.com )
